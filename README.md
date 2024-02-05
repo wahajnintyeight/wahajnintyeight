@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wahajnintyeight&label=Profile%20views&color=0e75b6&style=flat" alt="wahajnintyeight" /> </p>
 
-- 🔭 I’m currently working on **AI-generative tools**
+- 🔭 I'm currently developing web applications with a focus on both the frontend and backend, making sure they're fast, responsive, and user-friendly.
 
-- 🌱 I’m currently learning **VueJS and NuxtJS**
+- 🌱 Currently, I'm enhancing my expertise in NodeJS and exploring the capabilities of NextJS to build robust and scalable web solutions.
 
-- 👨‍💻 All of my projects are available at [github.com/wahajnintyeight](github.com/wahajnintyeight)
+- 👨‍💻 Discover my portfolio of projects at github.com/wahajnintyeight, where I chronicle my progress and experiences in web development.
 
-- 💬 Ask me about **Laravel, Livewire & VueJS**
+- 💬 Feel free to ask me anything about Laravel, Livewire, or NodeJS. I also have hands-on experience with Golang if that sparks your interest.
 
 - 📫 How to reach me **wahaj.dkz@gmail.com**
 
