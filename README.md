@@ -5,7 +5,7 @@
 
 - 🔭 I'm currently developing web applications with a focus on both the frontend and backend, making sure they're fast, responsive, and user-friendly.
 
-- 🌱 Currently, I'm enhancing my expertise in NodeJS and exploring the capabilities of NextJS to build robust and scalable web solutions.
+- 🌱 Currently, I'm enhancing my expertise in Go and exploring the capabilities of NextJS to build robust and scalable web solutions.
 
 - 👨‍💻 Discover my portfolio of projects at github.com/wahajnintyeight, where I chronicle my progress and experiences in web development.
 
