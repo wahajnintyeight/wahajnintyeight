@@ -1,17 +1,22 @@
-<h1 align="center">Hi 👋, I'm Wahaj</h1>
-<h3 align="center">A highly motivated and passionate young software developer from Pakistan.</h3>
+<h1 align="center">Hi, I'm Wahaj</h1>
+<h3 align="center">Full-stack engineer focused on building scalable backend systems and high-performance web applications.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wahajnintyeight&label=Profile%20views&color=0e75b6&style=flat" alt="wahajnintyeight" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=wahajnintyeight&label=Profile%20views&color=0e75b6&style=flat" alt="wahajnintyeight" />
+</p>
 
-- 🔭 I'm currently developing web applications with a focus on both the frontend and backend, making sure they're fast, responsive, and user-friendly.
+- I'm a full-stack engineer with a strong backend focus, working primarily with Laravel, Node.js, Go, and modern JavaScript frameworks. I enjoy building systems that are reliable, performant, and easy to evolve as products grow.
 
-- 🌱 Currently, I'm enhancing my expertise in Go and exploring the capabilities of NextJS to build robust and scalable web solutions.
+- In my professional work, I've built and maintained production systems used by thousands of users, working on API design, database optimization, event-driven services, and real-time features like WebSockets and streaming pipelines.
 
-- 👨‍💻 Discover my portfolio of projects at github.com/wahajnintyeight, where I chronicle my progress and experiences in web development.
+- Recently, I've been deepening my experience with Go and TypeScript, building backend services and exploring scalable architectures, while also working with React when frontend work is needed.
 
-- 💬 Feel free to ask me anything about Laravel, Livewire, or NodeJS. I also have hands-on experience with Golang if that sparks your interest.
+- This GitHub profile is where I share projects, experiments, and production-inspired work around backend engineering, distributed systems, and web development.
 
-- 📫 How to reach me **wahaj.dkz@gmail.com**
+- I'm always happy to talk about Laravel, Node.js, Go, backend architecture, databases, and performance optimization.
+
+- You can reach me at **wahaj.dkz@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
